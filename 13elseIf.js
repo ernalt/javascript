@@ -16,4 +16,4 @@ if(myAge > 30){
 
     document.write("You are not over 10!");     // tash nese ato me lart jan te gjitha false(jo te verteta, jo true) printo kete, ti nuk je mbi 10 vjeq(ska ku me kalu me shum dhe pasi qe te gjitha te perfundojne false kjo eshte e vetmja true) 
 
-}
+} 
